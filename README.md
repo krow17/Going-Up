@@ -1,12 +1,11 @@
 # Going-Up
-Semester-long virtual reality project. Premise is to travel through multiple floors of a seemingly abandoned mental ward, and either ignoring or obeying voices that the player hears.
+Semester-long virtual reality project. Premise is to travel through multiple floors of a seemingly abandoned mental ward, and either ignore or obey voices that the player hears.
 
 
 # How to play
-Made with HTC Vive in mind, but can be played without. 
+Made with HTC Vive in mind, but can be played without. Navigation is achieved by using an Xbox One or similarly mapped PS4 controller. 
 
 REQUIREMENTS FOR USING VIVE:
-
 GPU: Nvidia GeForce GTX 970, AMD Radeon R9 290 equivalent or better
 
 CPU: Intel i5-4590, AMD FX 8350 equivalent or better
@@ -22,7 +21,9 @@ Operating System: Windows 7 SP1, Windows 8.1 or later, Windows 10
 
 Read more at http://www.trustedreviews.com/news/can-i-run-the-htc-vive#sYBG76RPeEpI3wfA.99
 
-Navigation is achieved by using an Xbox One or similarly mapped PS4 controller. 
+
 
 # Desired Updates
---> UI
+--> UI: Have since learned how to correctly display prompts and text in game. Would like to go back through and implement that. 
+
+--> Navigation: Have since become familiar with Vive controller input. Would like to replace Xbox One controller with native controllers.
