@@ -4,7 +4,9 @@ Semester-long virtual reality project. Premise is to travel through multiple flo
 
 # How to play
 Made with HTC Vive in mind, but can be played without. 
+
 REQUIREMENTS FOR USING VIVE:
+
 GPU: Nvidia GeForce GTX 970, AMD Radeon R9 290 equivalent or better
 
 CPU: Intel i5-4590, AMD FX 8350 equivalent or better
