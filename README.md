@@ -3,7 +3,7 @@ Semester-long virtual reality project. Premise is to travel through multiple flo
 
 
 # How to play
-Made with HTC Vive in mind, but can be played without. Navigation is achieved by using an Xbox One or similarly mapped PS4 controller. 
+Made with HTC Vive in mind, but can be played without. Vive configuration should be for Room-Space, with a regularly-shpaed play area.  Navigation is achieved by using an Xbox One or similarly mapped PS4 controller. 
 
 REQUIREMENTS FOR USING VIVE:
 GPU: Nvidia GeForce GTX 970, AMD Radeon R9 290 equivalent or better
@@ -27,3 +27,5 @@ Read more at http://www.trustedreviews.com/news/can-i-run-the-htc-vive#sYBG76RPe
 --> UI: Have since learned how to correctly display prompts and text in game. Would like to go back through and implement that. 
 
 --> Navigation: Have since become familiar with Vive controller input. Would like to replace Xbox One controller with native controllers.
+
+--> Beware wall clipping. Unity doesn't stop you from physically "moving" your head through objects. 
