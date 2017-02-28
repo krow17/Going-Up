@@ -1,7 +1,7 @@
 # Going-Up
 Semester-long virtual reality project. Premise is to travel through multiple floors of a seemingly abandoned mental ward, and either ignore or obey voices that the player hears.
 
-To see a walkthrough video of this application, follow this link:  
+To see a walkthrough video of this game, follow this link:  
 https://drive.google.com/file/d/0B6oFWmnN48hgOFRUTTZNSVVpb1k/view?usp=sharing
 
 
