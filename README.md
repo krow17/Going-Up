@@ -1,6 +1,9 @@
 # Going-Up
 Semester-long virtual reality project. Premise is to travel through multiple floors of a seemingly abandoned mental ward, and either ignore or obey voices that the player hears.
 
+To see a walkthrough video of this application, follow this link:  
+https://drive.google.com/file/d/0B6oFWmnN48hgOFRUTTZNSVVpb1k/view?usp=sharing
+
 
 # How to play
 Made with HTC Vive in mind, but can be played without. Vive configuration should be for Room-Space, with a regularly-shpaed play area.  Navigation is achieved by using an Xbox One or similarly mapped PS4 controller. 
